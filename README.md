@@ -1,12 +1,12 @@
 # Baseball Projects
 
 ## **pitch_predictions**
-- *Project Objective:* Using the Q2_pitches_train.csv, develop a model that predicts the probability that a pitch is one of the below pitch types:
-\na. 4-Seam Fastball
-b. 2-Seam Fastball
-c. Curveball
-d. Slider
-e. Changeup
+- *Project Objective:* Using the Q2_pitches_train.csv, develop a model that predicts the probability that a pitch is one of the below pitch types:\
+a. 4-Seam Fastball\
+b. 2-Seam Fastball\
+c. Curveball\
+d. Slider\
+e. Changeup\
 Provide probabilities for each pitch type in the Q2_pitches_test.csv.
 
 ## **obp_predictions**
